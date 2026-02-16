@@ -6,7 +6,7 @@ import math
 # =========================
 # CONFIG
 # =========================
-TOKEN = os.environ.get("TOKEN")
+TOKEN = 8510228134:AAEKA1rF81bAsK6YbkG2TEJe5WsLXALJNo4
 app = Flask(__name__)
 
 user_data = {}
